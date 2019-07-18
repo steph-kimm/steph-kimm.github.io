@@ -1,0 +1,10 @@
+/* Your Code Here! */
+body{
+    background : lightpink;
+}
+.back {
+    background : whitesmoke;
+    width: 95%;
+    height: 95%;
+    box-align: center;
+}
