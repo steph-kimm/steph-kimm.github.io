@@ -91,4 +91,8 @@ img.randomname1{
     float : right;
     
 }
-
+input{
+#save{
+    border: 8px ;
+}
+}
