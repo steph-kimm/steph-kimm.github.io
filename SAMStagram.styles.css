@@ -1,0 +1,44 @@
+body {background:grey;}
+.header{
+    text-align:center;
+    background-color:black;
+    color : white;
+    font-family:Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body{
+    margin:0px
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding : 5px ;
+}
+.container{
+    background-color: lightgray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    font-family:Arial;
+}
+h4{
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
+.box{
+    background-color: white;
+    border : 50px;
+    padding:5px;
+    height: 80px;
+    margin: 5%;
+
+}
+
+.text{
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.blue{
+    color:blue
+}

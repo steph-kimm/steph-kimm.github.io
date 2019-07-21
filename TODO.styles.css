@@ -1,0 +1,47 @@
+/* Your Code Here! */
+body {
+    margin:0;
+    background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/marble-2398946_960_720.jpg")
+}
+
+#form1 {
+    width:100%;
+    padding: 20px;
+    text-align: center;
+}
+
+#form1 input[type=text] {
+    font-family: 'Kalam', cursive;
+    font-weight:bold;
+    font-size: 20px;
+    width: 200px;
+    height: 195px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-top: 40px solid #ffc7f3;
+    background-color: #ffd4f6;
+    text-align: top;
+    margin: 20px 20px 0px 0px;
+
+}
+
+#form1 input[type=text]:focus{
+    outline: none;
+}
+#container {
+    margin: 20px;
+}
+
+.todo_card {
+    font-family: 'Kalam', cursive;
+    font-weight:bold;
+    font-size: 20px;
+    width: 200px;
+    height: 160px;
+    padding: 10px;
+    border-top: 40px solid #ffc7f3;
+    background-color: #ffd4f6;
+    display: inline-block;
+    margin: 20px 20px 0px 0px;
+
+}
