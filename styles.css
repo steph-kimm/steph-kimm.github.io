@@ -136,4 +136,12 @@ h2{
 .theonewithNYC{
     background-image: url("https://i.pinimg.com/originals/ff/87/c6/ff87c620eae343e56c2e0c0f4528ead8.jpg");
 }
+a:link {
+  color: lightpink;
+}
+
+
+a:visited {
+  color: lightpink;
+}
 
