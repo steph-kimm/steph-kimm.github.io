@@ -144,4 +144,6 @@ h2{
 a {
   color: lightpink;
 }
-
+header a{
+    text-decoraion: none;
+}
